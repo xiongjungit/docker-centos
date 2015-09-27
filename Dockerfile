@@ -3,7 +3,7 @@
 #
 # 自动构建centos7基础镜像的Dockerfile
 #:
-FROM       centos:centos7.1.1503
+FROM       daocloud.io/library/centos:latest
 MAINTAINER dockerxman,xiongjun <fenyunxx@163.com>
 
 ENV TZ "Asia/Shanghai"
