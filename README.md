@@ -1,6 +1,6 @@
 ## 阿里云yum源的CentOS 7的docker基础镜像
 
-![](http://a.hiphotos.baidu.com/baike/c0%3Dbaike72%2C5%2C5%2C72%2C24/sign=866ca2c63a87e950561afb3e71513826/cc11728b4710b912f8905bfbc3fdfc0392452265.jpg)
+![](https://dn-daoweb-resource.qbox.me/image-icon/centos.svg)
 
 [CentOS](https://www.centos.org)（Community Enterprise Operating System，中文意思是：社区企业操作系统）是Linux发行版之一，它是来自于Red Hat Enterprise Linux依照开放源代码规定释出的源代码所编译而成。由于出自同样的源代码，因此有些要求高度稳定性的服务器以CentOS替代商业版的Red Hat Enterprise Linux使用。两者的不同，在于CentOS并不包含封闭源代码软件。
 
